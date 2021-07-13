@@ -7,4 +7,3 @@ environment:
 
 dependencies:
   grpc:
-  pedantic:
